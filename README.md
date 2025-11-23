@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **kalinduhimasara07/kalinduhimasara07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -80,10 +79,10 @@ I am a passionate developer and researcher bridging the gap between **Web Develo
 ### 📬 Let's Connect
 
 <p align="center">
-<a href="mailto:YOUR_EMAIL_HERE">
+<a href="mailto:kalinduhimasara1@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="YOUR_LINKEDIN_URL_HERE">
+<a href="www.linkedin.com/in/kalindu-himasara">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 </p>
